@@ -1,1 +1,1 @@
-# Reminder application using Nodejs
+# Reminder web-application using Nodejs
